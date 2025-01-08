@@ -48,16 +48,4 @@ In contrast, the thresholding-based approach is faster, simpler, and more effici
 
 ---
 
-## References
-- [GrabCut Function](https://docs.opencv.org/3.4/d8/d83/tutorial_py_grabcut.html)
-- [Threshold Function](https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html)
 
----
-
-## Input Video Frame
-![Input Frame Example](https://github.com/user-attachments/assets/line-detection-input.jpg)
-
----
-
-## Processed Output Frame
-![Processed Frame Example](https://github.com/user-attachments/assets/line-detection-output.jpg)
